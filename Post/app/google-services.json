@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "720548921309",
+    "firebase_url": "https://chatimagenes-b2ccb.firebaseio.com",
+    "project_id": "chatimagenes-b2ccb",
+    "storage_bucket": "chatimagenes-b2ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720548921309:android:19a2d3445eed1c0e",
+        "android_client_info": {
+          "package_name": "com.app.usuario.post"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720548921309-57p78tevhrki7ojfu3r8kpbe4lp659fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcr6UBzjV3KjqEhCweCdeV0JVwfd26qF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
